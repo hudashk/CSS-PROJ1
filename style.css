@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(158, 6, 6, 0.822);
+}
+h1{
+    text-align: center;
+    color:white;
+}
+form{
+    background-color:beige;
+    margin: 0px 250px 0px 250px;
+    padding: 8px;
+}
+.term{
+    color:maroon;
+    font-size: 18px;
+}
+.edit{
+    padding: 0px 300px 2px 0px;
+}
+.edit1{
+    padding: 10px 300px 40px 0px;
+}
+.text{
+    text-align: center;
+    color:white;
+}
+.button{
+    text-align: center;
+    font-size: medium;
+    margin: 10px 350px 5px 210px;
+    background-color:palegoldenrod;
+    border-radius: 5px;
+}
