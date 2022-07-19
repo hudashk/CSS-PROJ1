@@ -7,7 +7,7 @@ h1{
 }
 form{
     background-color:beige;
-    margin: 0px 250px 0px 250px;
+    margin: 0px 280px 0px 280px;
     padding: 8px;
 }
 .term{
@@ -31,8 +31,11 @@ form{
     background-color:palegoldenrod;
     border-radius: 5px;
 }
-b1{
+h2{
     text-align: center;
-    font-size: 50px;
-    color: maroon;
+    font-size: 30px;
+    color:whitesmoke;
+}
+.thankyou{
+    text-align: center;
 }
